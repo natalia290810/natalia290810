@@ -1,4 +1,4 @@
-## Olá,eu su Natalia 👋
+## Olá,eu sou a Natalia 👋
 
 <!--
 **✨ Bem-vindo(a) ao meu perfil no GitHub!✨ Sou estudante de Gestão da tecnologia da informação**** e apaixonada por programação de web.
