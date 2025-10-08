@@ -17,8 +17,8 @@ Acredito que com foco e fé, tudo é possível! ✨
 ---
 
 ### 🧠 Atualmente estudando:
-- HTML5  
-- CSS3  
+- HTML 
+- CSS  
 - JavaScript  
 - Git & GitHub  
 
