@@ -6,9 +6,9 @@
   📍 São Paulo, Brasil <br>
   📧 <a href="mailto:nataliaalvesfreitas93@gmail.com">nataliaalvesfreitas93@gmail.com</a>
 </p>
-### 🌐 Conecte-se comigo:
-[LinkedIn](https://www.linkedin.com/in/natalia-alves-coutinho/)
----
+🌐 Conecte-se comigo:
+LinkedIn (https://www.linkedin.com/in/natalia-alves-coutinho/)
+
 
 ### 🚀 Sobre mim
 Sou apaixonada por tecnologia e estou construindo minha jornada como desenvolvedora web.  
